@@ -1,0 +1,19 @@
+#Header {
+    background-image: url("/src/Page Service2x/surato/Backg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.all2{
+    background-image: url("/src/Page Service2x/surato/bacnsajdajsd.png");
+    background-repeat: no-repeat;
+}
+.all{
+    background-image: url("/src/Page Service2x/surato/Futeraberaxm.png");
+    height:826px;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-content: end;
+   
+    display: flex;
+    align-items: center;
+}

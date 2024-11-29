@@ -1,0 +1,15 @@
+#Header {
+  background-image: url("../servises1/imges/backgroung.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.all{
+    background-image: url("/src/servises1/imges/image (1).png");
+    height:826px;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-content: end;
+   
+    display: flex;
+    align-items: center;
+}
