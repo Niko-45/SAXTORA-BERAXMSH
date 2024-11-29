@@ -1,0 +1,15 @@
+#Header {
+    background-image: url("/src/Page Aviable/surato/backk.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.all{
+    background-image: url("/src/Page Service2x/surato/Futeraberaxm.png");
+    height:826px;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-content: end;
+   
+    display: flex;
+    align-items: center;
+}
