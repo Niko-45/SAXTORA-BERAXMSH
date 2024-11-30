@@ -14,7 +14,18 @@
     align-items: center;
 }
 #Header2 {
-    background-image: url("./surato/bg-image.png");
+    background-image: url("./rasm/background\ \(1\).png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.all1{
+    /* background-image: url("./rasm/illustration\ \(18\).png"); */
+    height:826px;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-content: end;
+   padding-right: 400px;
+    display: flex;
+    align-items: center;
+
 }
