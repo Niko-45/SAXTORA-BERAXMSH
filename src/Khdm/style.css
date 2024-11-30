@@ -3,6 +3,11 @@
      background-repeat: no-repeat;
      background-position: right;
 }
+#HeadeR {
+     background-image: url("./images/image-cover.png");
+     background-repeat: no-repeat;
+     background-position: right;
+}
 .all{
      background-image: url("./images/image (1).png");
      height:826px;
