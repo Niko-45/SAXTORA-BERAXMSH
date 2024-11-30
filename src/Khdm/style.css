@@ -3,3 +3,18 @@
      background-repeat: no-repeat;
      background-position: right;
 }
+.all{
+     background-image: url("./images/image (1).png");
+     height:826px;
+     background-repeat: no-repeat;
+     background-position: center;
+     align-content: end;
+    
+     display: flex;
+     align-items: center;
+ }
+ #section3 {
+     background-image: url("./images/bg-image.png");
+     background-repeat: no-repeat;
+     background-position: right;
+ }
